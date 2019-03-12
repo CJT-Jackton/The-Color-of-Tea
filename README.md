@@ -24,7 +24,7 @@ There are two different approach of texture mapping in this program. For the obj
 ## Result
 
 ![screenshot 1](https://raw.githubusercontent.com/CJT-Jackton/The-Color-of-Tea/master/screenshots/screenshot_1.png "Screenshot 1")
-    *Target image (The color of tea)*
+    *Screenshot of the view from camera #1*
     
 ## Control
 
