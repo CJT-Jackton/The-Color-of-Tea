@@ -47,3 +47,9 @@ GLFW
 GLM (math library)
 
 SOIL (image handle library)
+
+## TODO
+
+- Shadow mapping
+- Reflection
+- Advanced shading model (PBR)
